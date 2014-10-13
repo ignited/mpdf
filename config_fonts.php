@@ -92,6 +92,14 @@ $this->fontdata = array(
 		'useOTL' => 0xFF,
 		'useKashida' => 75,
 		),
+	"proximanovabold" => array(
+		'R' => "proximanova-bold-webfont.ttf",
+		'B' => "proximanova-bold-webfont.ttf",
+		'I' => "proximanova-boldit-webfont.ttf",
+		'BI' => "proximanova-boldit-webfont.ttf",
+		'useOTL' => 0xFF,
+		'useKashida' => 75,
+		),
 	"proximanovalight" => array(
 		'R' => "proximanova-light-webfont.ttf",
 		'useOTL' => 0xFF,
