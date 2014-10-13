@@ -92,6 +92,19 @@ $this->fontdata = array(
 		'useOTL' => 0xFF,
 		'useKashida' => 75,
 		),
+	"proximanovalight" => array(
+		'R' => "proximanova-light-webfont.ttf",
+		'useOTL' => 0xFF,
+		'useKashida' => 75,
+		),
+	"proximanova" => array(
+		'R' => "proximanova-reg-webfont.ttf",
+		'B' => "proximanova-sbold-webfont.ttf",
+		'I' => "proximanova-regitalic-webfont.ttf",
+		'BI' => "proximanova-boldit-webfont.ttf",
+		'useOTL' => 0xFF,
+		'useKashida' => 75,
+		),
 	"dejavusans" => array(
 		'R' => "DejaVuSans.ttf",
 		'B' => "DejaVuSans-Bold.ttf",
